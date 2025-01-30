@@ -2,15 +2,13 @@
 Database Systems for E-commerce Business
 
 ### 📌 Project Overview  
-This project is an **online bus ticket booking system** that allows users to search for bus routes, check seat availability, and book tickets conveniently through a web-based platform.
+This project involves designing a Big Data system for an online sales business, which will collect data on customer purchase history, store information, and various promotions. 
 
 ### 🎯 Objectives
-1. Facilitate ticket booking and reduce travel time to the station.
-2. Organize data systematically and minimize redundancy.
-3. Save costs on advance ticket reservations.
-4. Expand consumer reach through an online system.
+1. To notify customers about relevant ads and promotions.
+2. To recommend products based on customer interests.
+3. To improve product and service efficiency.
+4. To boost sales and enhance the customer experience.
+5. To find ways to reduce the cart abandonment rate.
 
-### 🛠️ Technologies Used
-- Database Management: phpMyAdmin
-- Database Design: DB Designer
-- Database: MySQL
+### 🛠️ Tool: MongoDB (NoSQL)
