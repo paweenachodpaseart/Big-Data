@@ -1,5 +1,5 @@
 # Big-Data
-Database Systems for E-commerce Business
+Database Systems for E-commerce Business🛍️
 
 ### 📌 Project Overview  
 This project involves designing a Big Data system for an online sales business, which will collect data on customer purchase history, store information, and various promotions. 
